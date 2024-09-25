@@ -12,6 +12,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# manifest dynamic for now
+pnpm-lock.yaml
+npm-lock.yaml
 
 # environment variables
 .env
