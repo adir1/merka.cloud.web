@@ -8,7 +8,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Merka.Cloud Education',
+			title: 'Merka.Cloud',
 			social: {
 				github: 'https://github.com/adir1/merka.cloud',
 			},
