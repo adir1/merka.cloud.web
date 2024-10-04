@@ -55,3 +55,16 @@ description: Explore the amazing world of Large Language Models and related tech
 - Multimodal LLMs (Text, Images, Audio)
 - Improved Efficiency (Reducing Carbon Footprint)
 - Collaboration with Other AI Technologies (AGI, Robotics)
+
+
+## Hosted LLMs and Tools
+
+- [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
+- [ChatGPT with custom GPTs (from OpenAI)](https://chatgpt.com/gpts)
+- 
+
+
+### LLM Releases and Updates
+
+- [Gemini 1.5 Flash-8B](https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/?linkId=11202757)
+- 

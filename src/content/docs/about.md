@@ -7,6 +7,6 @@ Merka.Cloud aims to be your all encompassing technology platform running on top 
 
 ## Further reading
 
-- Read [Why Merka?](/why_merka) to learn more about Design Philosophy and Benefits!
-- Ready to get started? Check out our easy [Setup Guide!](/setup)
+- Read [Why Merka?](/guides/why_merka) to learn more about Design Philosophy and Benefits!
+- Ready to get started? Check out our easy [Setup Guide!](/guides/setup)
 

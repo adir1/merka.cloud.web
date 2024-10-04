@@ -17,7 +17,6 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'About Merka.Cloud', slug: 'guides/about' },
 						{ label: 'Why Merka?', slug: 'guides/why_merka' },
 						{ label: 'Get Started!', slug: 'guides/setup' },
 					],
