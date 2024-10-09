@@ -5,6 +5,8 @@ description: Main collection of relevant links, in constant process of sorting/o
 
 # Incoming (Unsorted)
 
+EVERYTHING IS INFORMATION ASYMMETRY PROBLEM! Limits of Memory across layers, maintenance window hours, backup/network capacities (limits also), Security, ETC
+
 https://github.com/microsoft/UFO
 https://developers.googleblog.com/en/build-with-google-ai-release-3-a-season-of-gemma/?linkId=11201222
 https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
