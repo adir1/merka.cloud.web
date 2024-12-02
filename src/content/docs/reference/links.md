@@ -31,6 +31,9 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 
 - [Dev Containers - Leading Specs for creating Containers for Development](https://containers.dev/)
 - [Visual Studio Code - MIT License, but extensions may be limited](https://github.com/microsoft/vscode)
+- [Google Co-Lab](https://colab.research.google.com/)
+
+https://github.com/mutagen-io/mutagen
 
 
 #### AI Extensions
@@ -45,3 +48,7 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 
 - [How to write Docs - A Guide for a Guide](https://diataxis.fr/map/)
 
+## ChatGPT Aggregators
+
+- [Abacus AI](https://chatllm.abacus.ai/ptm)
+- 
