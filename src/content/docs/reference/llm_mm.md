@@ -6,11 +6,13 @@ description: Explore the amazing world of Large Language Models and related tech
 # Large Language Models (LLMs)
 
 ## Definition & Overview
+
 - What are LLMs?
 - How do they work? (Neural Networks, Transformers)
 - Importance in NLP
 
 ## Popular LLMs
+
 - GPT (Generative Pretrained Transformer)
 - BERT (Bidirectional Encoder Representations from Transformers)
 - T5 (Text-To-Text Transfer Transformer)
@@ -18,12 +20,14 @@ description: Explore the amazing world of Large Language Models and related tech
 - LLaMA (Large Language Model Meta AI)
 
 ## Training Process
+
 - Pretraining on Massive Text Data
 - Fine-Tuning for Specific Tasks
-- Tokenization (Subword, Byte-Pair Encoding)
+- Tokenization (Sub-word, Byte-Pair Encoding)
 - Attention Mechanism (Self-attention, Multi-head Attention)
 
 ## Applications
+
 - Text Generation (Chatbots, Conversational AI)
 - Translation
 - Summarization
@@ -32,18 +36,21 @@ description: Explore the amazing world of Large Language Models and related tech
 - Information Retrieval
 
 ## Challenges
+
 - Data and Compute Requirements
 - Ethical Concerns (Bias, Misinformation)
 - Hallucinations (Inaccurate Information Generation)
 - Interpretability of Results
 
 ## Key Concepts
+
 - Parameters and Model Size (e.g., Billions of Parameters)
 - Zero-shot, Few-shot, and Fine-tuned Performance
 - Context Window (Token Limitations)
 - Transfer Learning
 
 ## Tools & Libraries
+
 - Hugging Face Transformers
 - OpenAI API
 - Google Colab
@@ -51,6 +58,7 @@ description: Explore the amazing world of Large Language Models and related tech
 - LangChain (LLM Orchestration)
 
 ## Future of LLMs
+
 - Scaling Models (Beyond GPT-4)
 - Multimodal LLMs (Text, Images, Audio)
 - Improved Efficiency (Reducing Carbon Footprint)

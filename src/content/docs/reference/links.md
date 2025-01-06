@@ -21,6 +21,8 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 
 ### Data
 
+- LakeFS (Review HDFS, other options)
+
 ### Hardware
 
 ### Security Lifecycle
@@ -35,7 +37,6 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 - [Glitch](https://glitch.com/) - Ability to quickly create small public apps or cheap solution for private apps
 - [ReplIT CDE](https://replit.com/cloud-development-environment) - CDE with scalable cloud infrastructure
 - [Docker Sync Tool](https://github.com/mutagen-io/mutagen) - Most features up-streamed into Docker, but good startup guides
-
 
 #### AI Extensions
 
