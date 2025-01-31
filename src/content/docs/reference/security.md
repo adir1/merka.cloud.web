@@ -3,13 +3,19 @@ title: Security
 description: World Class Security Mechanisms protecting your data in merka.cloud   
 ---
 
+# Wireguard/Tailnet
+
+- Encrypted communications, probably even within the same DC/Availability-Zone
+- Partitioned Network - Only specific devices see each other as per Merka AI determination, with human guidance/visibility. Review Firewall considerations to open only specific ports to specific devices, again per AI/design.
+- 
+
 # Machine Learning
 
 - Mobile iOS based Trust Chain that stores the keys that connect cluster
 - Zero Trust Security
-- Encryption at Rest and 
-- Individual Record Security
-- Column/JSON/BLOB level security
+- Data Encryption at Rest (Multi-layered potentially, in addition to what cloud provides?)
+- Individual DB Record Security, Table-Level security, More?
+- Column Role Access - allow access to specific column/table to a Role
 - Every new device joining the business network has to prove Trust Chain and Individual Access
 - All Endpoints and File access always backed by Human - no MECH accounts
 - Machine to Machine needs more research, perhaps with auto-rotating keys based on main Trust Chain
@@ -17,4 +23,10 @@ description: World Class Security Mechanisms protecting your data in merka.cloud
 - PII
 - PCI
 - GDPR
+- 
+
+# Logs Access 
+
+- Role Based
+- Ensure all keys are marked sensitive properly, in Terraform and similar features elsewhere
 - 
