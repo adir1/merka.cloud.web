@@ -13,6 +13,7 @@ Python:Latest
 LangChain
 Connection to LLM or Built-In Ollama
 Continue (AI)
+Deno (upgraded NodeJS)
 
 - OAUTH? Encryption for secrets?
 - Nomad? Dependency graph? ArgoCD/Istio? Init-Containers for K8s?
@@ -21,6 +22,7 @@ Continue (AI)
 - Apache CloudStack? 
 - Reference/Consider - CloudPods 
 - NetData to decide network routing/partitioning, cost efficiencies and more
+- ToolJet?
 
 
 ## Extensions

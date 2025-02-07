@@ -13,22 +13,27 @@ Ab Initio - First Setup was always envisioned to be via a Personal Mobile Device
 ## Phase 0.1 - Prototype
 
 - Core Stack (networking, keys, netdata statistics, RAG AI via API)
-
+- 
 
 ## Phase 0.2 - Initial Use Case
 
 - Versioned Data Model (With Migration/Overlay)
 - Managing API keys for other services, such as AI API, S3 Storage, Compute Clouds, More
-- 
+- NoCoDB
+- Local LLM option - figure out which device it can run on best, perhaps across devices even
 
 ## Phase 0.3 - Additional Use Cases
 
-- Personal Information Manager with AI
+- Personal Information Manager with AI (Hoarder?)
 - Shared Knowledge Base with AI
-- 
+- Permissioning in case multi-user multi-device scenario, to allow more granular resource utilization?
 
 ## Phase 0.4 - Even More
 
+- Java conversion to Go, or TypeScript (using OpenRewrite)
+- Conversion between frameworks
+- Automated ToolJet like behaviors
+- More
 
 
 ## Phase 0.5 - Merka to Merka connection concepts
