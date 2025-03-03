@@ -3,13 +3,16 @@ title: Security
 description: World Class Security Mechanisms protecting your data in merka.cloud   
 ---
 
-# Wireguard/Tailnet
+Security and RBAC are cornerstones of the cloud, with the goal of providing SSO across all devices and hyperscalers.
+
+## Wireguard/Tailnet
 
 - Encrypted communications, probably even within the same DC/Availability-Zone
+- Automatic VPC setup (or equivalent on each cloud) via AI Assistant
 - Partitioned Network - Only specific devices see each other as per Merka AI determination, with human guidance/visibility. Review Firewall considerations to open only specific ports to specific devices, again per AI/design.
 - 
 
-# Machine Learning
+## Machine Learning
 
 - Mobile iOS based Trust Chain that stores the keys that connect cluster
 - Zero Trust Security
@@ -25,7 +28,7 @@ description: World Class Security Mechanisms protecting your data in merka.cloud
 - GDPR
 - 
 
-# Logs Access 
+## Logs Access 
 
 - Role Based
 - Ensure all keys are marked sensitive properly, in Terraform and similar features elsewhere

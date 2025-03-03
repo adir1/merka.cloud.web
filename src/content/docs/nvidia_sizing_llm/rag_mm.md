@@ -7,6 +7,7 @@ description: Retrieval-Augmented Generation (RAG) concepts used by Merka.Cloud i
 # Retrieval-Augmented Generation (RAG)
 
 ## Core Concepts
+
 - Retrieval Component
 - Generation Component
 - Knowledge Base
