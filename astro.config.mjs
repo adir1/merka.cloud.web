@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// Logo Dall-E Prompt: Please create an SVG image of seed of life merkabah and cloud, against shining light background
+// Logo Dall-E Prompt: Please create an SVG image of seed of life Merkabah and cloud, against shining light background
 
 // https://astro.build/config
 export default defineConfig({
@@ -10,7 +10,7 @@ export default defineConfig({
 		starlight({
 			title: 'Merka.Cloud',
 			social: {
-				github: 'https://github.com/adir1/merka.cloud',
+				github: 'https://github.com/worlddelights/merka.cloud',
 			},
 			sidebar: [
 				{
