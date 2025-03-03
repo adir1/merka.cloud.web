@@ -13,7 +13,7 @@ Meanwhile feel free to review the repository, contribute and manually download &
 
 ## Documentation GitHub
 
-This website is currently located in a separate repository and welcomes suggestions and contributions here: [Documentation GitHub](https://github.com/adir1/merka.cloud.web) 
+This website is currently located in a separate repository and welcomes suggestions and contributions here: [Documentation GitHub](https://github.com/worlddelights/merka.cloud.web) 
 
 ## Roadmap
 
