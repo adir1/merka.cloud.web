@@ -3,8 +3,8 @@ title: Roadmap
 description: Merka.Cloud Roadmap Items
 ---
 
-Overall goal of Merka.Cloud is to extensible compute/storage/AI overlay over public/private clouds, supporting all business (and family/home) operations.
-The goal is of course rather ambitious, but everything has to start somewhere. The roadmap also explores the thin separation line between "core" and "extension" functionality, and feedback on that is always welcome. As an example - Analytics often considered an non-functional requirement of a system, leading to potential treatment as Add-On/Extension, however we believe it must be at a core of every component - leading to observability, and ongoing self-optimization/improvements.
+Overall goal of Merka.Cloud is to modular compute/storage/AI overlay over public/private clouds, supporting all business (and family/home) operations.
+The goal is of course rather ambitious, but everything has to start somewhere. The roadmap also explores the few required modules that make up the core of Merka, and feedback on that is always welcome. As an example - Analytics often considered a non-functional requirement of a system, however we believe it must be at a core of every cloud - not only for observability, but to facilitate constant self-optimization/improvements.
 
 Ab Initio - First Setup was always envisioned to be via a Personal Mobile Device (iOS or Android). This gives you externalized 2FA for first user and more critically - external backup of access keys that are harder to reach (semi-online). This may be delayed beyond phase 0.1 simply because of complexity of implementation requirements.
 

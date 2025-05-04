@@ -26,6 +26,7 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 ### Data
 
 - LakeFS (Review HDFS, other options)
+- Neon DB
 
 ### Hardware
 
@@ -42,7 +43,7 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 - [ReplIT CDE](https://replit.com/cloud-development-environment) - CDE with scalable cloud infrastructure
 - [Docker Sync Tool](https://github.com/mutagen-io/mutagen) - Most features up-streamed into Docker, but good startup guides
 
-### AI Extensions
+### AI Modules
 
 - [VSCode GPT Engineer (Supports Codespaces) - 52k stars](https://github.com/gpt-engineer-org/gpt-engineer)
 - [VSCode Pythagora (GPT-Pilot) - 30k stars](https://github.com/Pythagora-io/gpt-pilot)
@@ -50,9 +51,15 @@ https://developers.googleblog.com/en/gemma-explained-paligemma-architecture/
 - [VSCode Continue (Self-Hosted) - 17k stars](https://github.com/continuedev/continue)
 - [VSCode TryPear.AI (Continue Fork) - almost no stars ](https://github.com/trypear)
 
+### Remote Desktop (Optional Module)
+
+- [RustDesk - Remote Desktop into your devices](https://github.com/rustdesk/rustdesk)
+- 
+
 ### Others
 
 - [How to write Docs - A Guide for a Guide](https://diataxis.fr/map/)
+
 
 ### ChatGPT Aggregators
 

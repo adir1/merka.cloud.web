@@ -7,7 +7,7 @@ description: Description of core Merka toolchain and the catalog of available ex
 
 This page is still under heavy construction, sorry.
 
-## Built-In Toolchain
+## Core Modules (Toolchain)
 
 - Debian/Ubuntu/Docker/Nix base image?
 - Coder-Server
@@ -28,7 +28,7 @@ This page is still under heavy construction, sorry.
 - NetData to decide network routing/partitioning, cost efficiencies and more
 - ToolJet?
 
-## Extensions
+## Optional Modules
 
 - Jupyter
 - jupyenv
