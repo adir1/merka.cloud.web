@@ -3,7 +3,7 @@ title: About Merka.Cloud
 description: Learn what is Merka.Cloud
 ---
 
-Merka.Cloud is your all encompassing technology platform running on top of any "metal" virtualization - from your Laptop, to Cloud VMs, to Pods and More. It starts with opinionated AI Agent aiming to understanding your needs using simple conversational language. From there you can continue the discussion as your needs evolve, allowing the platform to dynamically grow - auto-procuring needed software solutions, scaling to thousands of collaborators, servers and devices.
+Merka.Cloud is your all encompassing technology platform running on top of most VM or bare metal - from your Laptop, to Cloud VMs, to Pods and More. It starts with opinionated AI Agent aiming to understanding your needs using simple conversational language. From there you can continue the discussion as your needs evolve, allowing the platform to dynamically grow - auto-procuring needed software solutions, scaling to thousands of collaborators, servers and devices.
 
 ## TLDR - Getting Started
 

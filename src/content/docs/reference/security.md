@@ -5,7 +5,7 @@ description: World Class Security Mechanisms protecting your data in merka.cloud
 
 Security and RBAC are cornerstones of the cloud, with the goal of providing SSO across all devices and hyperscalers.
 
-## Wireguard/Tailnet
+## Wireguard/Tailnet/Nebula
 
 - Encrypted communications, probably even within the same DC/Availability-Zone
 - Automatic VPC setup (or equivalent on each cloud) via AI Assistant
